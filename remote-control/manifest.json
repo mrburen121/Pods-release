@@ -1,0 +1,9 @@
+{
+    "name": "Pods-remote-control",
+    "description": "Firmware for Pods remote control device",
+    "author": "Chris Ketterink",
+    "license": "MIT",
+    "version": "1.0.0",
+    "build": "1",
+    "bin_url": "https://raw.githubusercontent.com/mrburen121/Pods-release/refs/heads/master/remote-control/firmware.bin"
+}
